@@ -1,7 +1,7 @@
 {
   "name": "Mi PWA Next.js",
   "short_name": "NextPWA",
-  "start_url": ".next/server/app/index.html",
+  "start_url": "/.next/server/app/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
